@@ -14,6 +14,10 @@ Your GitHub repository must contain:
 
 Short Summary
 
+Defining the ML problem: Regression
+The target variable is cases
+What is the model expected to learn or predict? The model is expected to predict the number of COVID-19 cases based on human mobility and related features in the dataset.
+
 This dataset contains COVID-19 case numbers in the United States along with human mobility indicators for the year 2021.
 The goal of this project is to predict the number of COVID-19 cases based on mobility and related features.
 This is a supervised regression problem because the target variable, cases, is a continuous numerical value.
