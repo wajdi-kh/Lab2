@@ -1,0 +1,5 @@
+Short Summary:
+
+This dataset contains COVID-19 case numbers in the United States along with human mobility indicators for the year 2021.
+The goal of this project is to predict the number of COVID-19 cases based on mobility and related features.
+This is a supervised regression problem because the target variable, cases, is a continuous numerical value.
